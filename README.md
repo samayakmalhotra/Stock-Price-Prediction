@@ -1,2 +1,4 @@
 # Stock-Price-Prediction
 Stock Prediction using Python and Machine Learning
+
+Stock trading has become very common in these todays world. Predicting the future cost of a share is the key to making revenue inside the stock marketplace. Stock brokers in particular use fundamental analysis and time series for the stock price prediction but these techniques are very slow and unpredictable. The programming language that we utilized in predicting the stock price is Python. In this research paper we propose a Machine Learning method referred to as Support Vector Machine so one can be taught from the given shares data, benefit intelligence after which use the obtained expertise for an accurate prediction of the shares within the inventory marketplace. A lot of experiments have been performed and the highest accuracy we achieved with the SVM model was 89.71% for Delta Airlines (DAL) inventory.
